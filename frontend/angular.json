@@ -63,10 +63,10 @@
           "builder": "@angular-devkit/build-angular:dev-server",
           "configurations": {
             "production": {
-              "buildTarget": "Duncan'sTrainingApp:build:production"
+              "buildTarget": "DuncanTrainingApp:build:production"
             },
             "development": {
-              "buildTarget": "Duncan'sTrainingApp:build:development"
+              "buildTarget": "DuncanTrainingApp:build:development"
             }
           },
           "defaultConfiguration": "development",
