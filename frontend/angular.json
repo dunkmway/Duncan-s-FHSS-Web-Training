@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "FhssStarterApp": {
+    "DuncanTrainingApp": {
       "projectType": "application",
       "schematics": {
         "@schematics/angular:component": {
@@ -63,10 +63,10 @@
           "builder": "@angular-devkit/build-angular:dev-server",
           "configurations": {
             "production": {
-              "buildTarget": "FhssStarterApp:build:production"
+              "buildTarget": "Duncan'sTrainingApp:build:production"
             },
             "development": {
-              "buildTarget": "FhssStarterApp:build:development"
+              "buildTarget": "Duncan'sTrainingApp:build:development"
             }
           },
           "defaultConfiguration": "development",
